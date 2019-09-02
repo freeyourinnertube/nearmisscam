@@ -1,4 +1,4 @@
-# This file derrived from the openmv example file for video recording
+# This file derived from the openmv example file for video recording
 # and is repurposed to connect to and record ultrasonic distance sensor readings
 # 
 # Note: You will need an SD card to run this demo.
