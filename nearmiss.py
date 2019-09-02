@@ -6,4 +6,11 @@
 # Once you've finished recording a Mjpeg file you can use VLC to play it. 
 # If you are on Ubuntu then
 # the built-in video player will work too.
+#
+# Hardware used
+# OpenMV H7
+# US-100 (Y401) ultrasonic distance sensor
+#
+# Physical wiring
+# Put the US-100 in serial mode by enabling the jumper
 
