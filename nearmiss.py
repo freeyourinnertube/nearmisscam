@@ -15,8 +15,8 @@
 # Put the US-100 in serial mode by enabling the jumper
 # H7 VIN -----> US-100 VCC (pin 1)
 # H7 GND -----> US-100 GND (pin 4)
-# H7 P4  -----> US-100 Trig/Tx
-# H7 P5  -----> US-100 Echo/Rx
+# H7 P4  -----> US-100 Trig/Tx (pin 2)
+# H7 P5  -----> US-100 Echo/Rx (pin 3)
 #
 # Proof of concept code - not optimised
 import sensor, image, time, mjpeg, pyb
